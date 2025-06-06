@@ -9,7 +9,7 @@
 ## ✨ Ominaisuudet
 
 - Valitse salasanan pituus
-- Mukauta:
+- Valitse mitä merkkejä haluat käyttää:
   - Isot kirjaimet (A-Z)
   - Pienet kirjaimet (a-z)
   - Numerot (0-9)
