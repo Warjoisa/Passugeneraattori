@@ -22,7 +22,7 @@
 
 ## 🚀 Käyttö
 
-1. Lataa `Passugeneraattori.exe` [Releases-välilehdeltä](https://github.com/kayttaja/Passugeneraattori/releases)
+1. Lataa `Passugeneraattori.exe` [Releases-välilehdeltä](https://github.com/Warjoisa/Passugeneraattori/releases)
 2. Avaa ohjelma
 3. Valitse asetukset ja paina **Generoi salasana**
 4. Kopioi ja käytä!
@@ -38,7 +38,7 @@ Tämä sovellus toimii täysin paikallisesti. Mitään salasanoja ei tallenneta 
 
 ## 🐾 Pieni salainen viesti
 
-> Tämä ohjelma sisältää salaisen rivin... jos osaat etsiä 👀
+> Tämä ohjelma sisältää salaisen viestin... jos osaat etsiä 👀
 
 ---
 
