@@ -2,7 +2,7 @@
 
 **Passugeneraattori** on yksinkertainen mutta tehokas Windows-sovellus, jolla voit generoida turvallisia salasanoja helposti ja nopeasti.
 
-![Screenshot](screenshot.png) <!-- Voit lisätä kuvakaappauksen tähän jos haluat -->
+![Screenshot](screenshot.png)
 
 ---
 
